@@ -1,7 +1,7 @@
-# CS 4675 Web Crawler
+# Web Crawler
 
 ## Overview
-For HW1, I decided to choose Option 1.2 and write a web crawler of my own. This web crawler is written in Go and uses MongoDB as a web archive. The crawler can be run locally without access to the web archive. 
+I wrote a web crawler of my own. This web crawler is written in Go and uses MongoDB as a web archive. The crawler can be run locally without access to the web archive. 
 
 ![Command Line Output](https://github.com/afazio1/web-crawler/blob/main/images/cmd-ui.png)
 ## How it works
